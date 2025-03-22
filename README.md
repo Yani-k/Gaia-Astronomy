@@ -1,6 +1,4 @@
-# Gaia-Astronomy
-# High Parallax Star Analysis
-
+# Gaia-Astronomy (High Parallax Star Analysis)
 ## Overview
 This project, completed as part of the *Programming for Analytics* course at Baruch College, analyzes high-parallax stars using Gaia DR3 data. The script queries nearby stars, classifies them based on temperature, and visualizes key stellar properties.
 
