@@ -44,9 +44,4 @@ pip install astroquery pandas seaborn matplotlib sqlite3
   - K: 206
   - M: 804
 
-## License
-This project is for educational purposes as part of the Baruch College *Programming for Analytics* course.
-
-## Author
-[Your Name]
 
