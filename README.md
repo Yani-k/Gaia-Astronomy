@@ -1,4 +1,4 @@
-# Gaia-Astronomy (High Parallax Star Analysis)
+# Gaia-Astronomy (Star Analysis)
 ## Overview
 This project analyzes high-parallax stars using Gaia DR3 data. The script queries nearby stars, classifies them based on temperature, and visualizes key stellar properties.
 
